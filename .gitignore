@@ -1,0 +1,16 @@
+.env
+.private
+.vscode
+
+History/
+__Previews/
+Project Logs*/
+
+Debug/
+.settings/
+*.launch
+bin/
+OldVersions/
+lockfile.lck
+Status Report.Txt
+.SpecialStrings
