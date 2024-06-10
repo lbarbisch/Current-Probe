@@ -1,0 +1,292 @@
+*************************************************************
+FileName = XXX.XXXXA_Current-Probe.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Overlay
+      File : XXX.XXXXA_Current-Probe.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : XXX.XXXXA_Current-Probe.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : MidLayer1
+      File : XXX.XXXXA_Current-Probe.G1
+
+    Adding Layer      : MidLayer1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D61
+    D64
+*************************************************************
+
+*************************************************************
+Generating : MidLayer2
+      File : XXX.XXXXA_Current-Probe.G2
+
+    Adding Layer      : MidLayer2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D60
+    D62
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Panel Drawing
+      File : XXX.XXXXA_Current-Probe.GM32
+
+    Adding Layer      : Panel Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Sheet
+      File : XXX.XXXXA_Current-Probe.GM16
+
+    Adding Layer      : Sheet
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : XXX.XXXXA_Current-Probe.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D38
+    D39
+    D41
+    D42
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : XXX.XXXXA_Current-Probe.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D22
+    D23
+    D32
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : XXX.XXXXA_Current-Probe.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : XXX.XXXXA_Current-Probe.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D19
+    D20
+    D22
+    D23
+    D32
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : XXX.XXXXA_Current-Probe.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Board
+      File : XXX.XXXXA_Current-Probe.GM1
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : XXX.XXXXA_Current-Probe.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : XXX.XXXXA_Current-Probe.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D72
+    D73
+    D74
+    D75
+*************************************************************
+

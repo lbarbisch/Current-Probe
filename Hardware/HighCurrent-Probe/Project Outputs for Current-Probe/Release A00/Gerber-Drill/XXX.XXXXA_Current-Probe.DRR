@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Current-Probe.PcbDoc   10.06.2024  18:55:25
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : XXX.XXXXA_Current-Probe-RoundHoles.TXT
+ASCII SlotHoles File : XXX.XXXXA_Current-Probe-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             50        PTH        171.21mm (6.74inch)
+T2      0.6mm (24mil)                                             Slot              4         PTH        43.28mm (1.70inch)
+T3      1.1mm (43mil)                                             Round             4         PTH        7.62mm (0.30inch)
+T4      3.2mm (126mil)                                            Round             2         NPTH       18.00mm (0.71inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              60
+
+Total Processing Time (hh:mm:ss) : 00:00:00

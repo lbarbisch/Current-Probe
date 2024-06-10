@@ -1,0 +1,66 @@
+Altium Designer Pick and Place Locations
+\\192.168.1.200\Storragepool\Datastorrage\Projects\HighCurrent-Probe\Hardware\HighCurrent-Probe\Project Outputs for Current-Probe\Pick Place\XXX.XXXXPCB_Assy_Revision_Current-Probe.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       10.06.24
+Time:       18:54
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"L2","600R","TopLayer","L_0805_N_RF","15.7500","18.7500","180","Ferrite Bead 600Ohm 2A 0805"
+"C16","Cap 10u 0805","TopLayer","C-0805_2012_155_L_RF","15.2500","21.2500","270","Cap Cer SMD 10u 16V 10% 0805 X7R"
+"X5","","TopLayer","Lötpad_2x3","10.5950","43.0000","180","Solderpad 2mm x 3mm"
+"X4","","TopLayer","Lötpad_2x3","14.4050","43.0000","180","Solderpad 2mm x 3mm"
+"R21","Res 0R 0603","TopLayer","R-0603_1608_050_L_RF","5.2500","31.7500","180","Res SMD 0R 0.1W 0603"
+"R11","Res 1k 0603","TopLayer","R-0603_1608_050_L_RF","11.0000","17.0000","0","Res SMD 1k 1% 0.1W 0603"
+"R10","Res 1k 0603","TopLayer","R-0603_1608_050_L_RF","8.5000","17.0000","180","Res SMD 1k 1% 0.1W 0603"
+"R8","Res 10k 0603","BottomLayer","R-0603_1608_050_L_RF","4.5000","29.7500","270","Res SMD 10k 1% 0.1W 0603"
+"R7","Res 10k 0603","TopLayer","R-0603_1608_050_L_RF","4.5000","29.7500","270","Res SMD 10k 1% 0.1W 0603"
+"R6","Res 10k 0603","TopLayer","R-0603_1608_050_L_RF","6.0000","29.7500","270","Res SMD 10k 1% 0.1W 0603"
+"C5","Cap 100p 0603","BottomLayer","C-0603_1608_095_L_RF","6.0000","29.7500","270","Cap Cer SMD 100p 50V 5% 0603 C0G"
+"X3","CONN HEADER 4POS 1ROW THT 2.54MM","TopLayer","X-0101X0025_R_FCI_77311-118-04LF","12.5000","5.5000","270","CONN HEADER 4POS 1ROW THT 2.54MM FCI 77311-118-04LF"
+"V2","LED SMD 0603 Green","BottomLayer","LED-0603_1608_Green_L_RF","12.5000","16.2500","0","LED Green LTST-C190KGKT 0603"
+"V1","LED SMD 0603 Red","BottomLayer","LED-0603_1608_Red_L_RF","12.5000","17.7500","0","LED Red LTST-C190KRKT 0603"
+"U2","TC7660E","TopLayer","SOIC8_N_RF","20.2500","24.2500","270","IC REG Charge Pump negative"
+"S1","KSC241GLFS","BottomLayer","S-0062x0062_R_P0890_C&K-KSC-241G-LFS","12.5000","12.0000","270","Switch Tactile N.O. SPST Round Button Gull Wing 0.05A 32VDC 1VA 300000Cycle 4N SMD T/R"
+"R4","Res 1k 0603","TopLayer","R-0603_1608_050_L_RF","3.1000","14.8500","90","Res SMD 1k 1% 0.1W 0603"
+"R3","Res 1k 0603","TopLayer","R-0603_1608_050_L_RF","4.4000","14.8500","270","Res SMD 1k 1% 0.1W 0603"
+"R2","Res 1k 0603","TopLayer","R-0603_1608_050_L_RF","1.7500","15.0000","270","Res SMD 1k 1% 0.1W 0603"
+"R13","Res 1k 0603","BottomLayer","R-0603_1608_050_L_RF","9.7500","16.2500","180","Res SMD 1k 1% 0.1W 0603"
+"R12","Res 1k 0603","BottomLayer","R-0603_1608_050_L_RF","9.7500","17.7500","180","Res SMD 1k 1% 0.1W 0603"
+"R5","Res 1k 0603","BottomLayer","R-0603_1608_050_L_RF","19.5000","12.0000","90","Res SMD 1k 1% 0.1W 0603"
+"R9","Res 10k 0603","BottomLayer","R-0603_1608_050_L_RF","7.5000","29.7500","270","Res SMD 10k 1% 0.1W 0603"
+"C13","Cap 10u 0805","TopLayer","C-0805_2012_155_L_RF","22.0000","18.7500","0","Cap Cer SMD 10u 16V 10% 0805 X7R"
+"C12","Cap 10u 0805","TopLayer","C-0805_2012_155_L_RF","19.0000","18.7500","180","Cap Cer SMD 10u 16V 10% 0805 X7R"
+"C11","Cap 10u 0805","TopLayer","C-0805_2012_155_L_RF","19.7500","29.0000","0","Cap Cer SMD 10u 16V 10% 0805 X7R"
+"C3","Cap 100p 0603","TopLayer","C-0603_1608_095_L_RF","3.8000","16.7500","0","Cap Cer SMD 100p 50V 5% 0603 C0G"
+"C4","Cap 100p 0603","BottomLayer","C-0603_1608_095_L_RF","3.0000","29.7500","270","Cap Cer SMD 100p 50V 5% 0603 C0G"
+"X2","73251-2120","TopLayer","73251-2120","5.5000","2.7500","180","CONN RF SMA"
+"X1","105450-0101","TopLayer","105450-0101","19.7500","5.0500","0","CONN USB-C 16pin"
+"U1","TPS62A01A","TopLayer","SOT-563_N_RF","22.0000","13.0000","0","IC BUCK 1A 2.5-5.5Vin 2.4MHz"
+"R15","Res 1k 0603","TopLayer","R-0603_1608_050_L_RF","12.5000","22.5000","270","Res SMD 1k 1% 0.1W 0603"
+"R16","Res 10k 0603","TopLayer","R-0603_1608_050_L_RF","3.2500","22.2500","270","Res SMD 10k 1% 0.1W 0603"
+"R18","Res 5k1 0603","BottomLayer","R-0603_1608_050_L_RF","18.2500","3.7500","90","Res SMD 5k1 1% 0.1W 0603"
+"R17","Res 5k1 0603","BottomLayer","R-0603_1608_050_L_RF","20.7500","3.7500","90","Res SMD 5k1 1% 0.1W 0603"
+"R1","Res 1k 0603","TopLayer","R-0603_1608_050_L_RF","4.6000","7.9000","0","Res SMD 1k 1% 0.1W 0603"
+"R14","Res 1k 0603","TopLayer","R-0603_1608_050_L_RF","8.0000","11.0000","90","Res SMD 1k 1% 0.1W 0603"
+"R20","Res 15k 0603","TopLayer","R-0603_1608_050_L_RF","22.5000","14.7500","0","Res SMD 15k 1% 0.1W 0603"
+"R19","Res 68k 0603","TopLayer","R-0603_1608_050_L_RF","22.5000","16.0000","180","Res SMD 68k 1% 0.1W 0603"
+"N1","LMC7101AIM5X","TopLayer","SOT23-5_L_RF","4.1000","11.9500","90","Low Power OP Rail to Rail"
+"L1","1uH","TopLayer","L_0805_N_RF","19.0000","13.0000","180","Inductor 1uH 0.95A"
+"D2","MCP4726A0T","TopLayer","SOT23-6_N_RF","9.2500","14.2500","0","IC DAC I2C 12Bit 2.7V-5.5V"
+"D1","STM32G030F6P6","TopLayer","TSSOP20_N_RF","8.0000","23.5000","270","IC MCU Cortex M0+ 32K Flash, 8K RAM, 64MHz"
+"C7","Cap 100n 0603","TopLayer","C-0603_1608_095_L_RF","3.2500","25.0000","270","Cap Cer SMD 100n 50V 10% 0603 X7R"
+"C1","Cap 10p 0603","TopLayer","C-0603_1608_095_L_RF","4.6000","9.3000","0","Cap Cer SMD 10p 50V +/- 0.25pF  0603 C0G"
+"C14","Cap 100n 0603","TopLayer","C-0603_1608_095_L_RF","1.7000","11.3500","90","Cap Cer SMD 100n 50V 10% 0603 X7R"
+"C15","Cap 100n 0603","TopLayer","C-0603_1608_095_L_RF","8.7500","28.7500","0","Cap Cer SMD 100n 50V 10% 0603 X7R"
+"C10","Cap 10u 0805","TopLayer","C-0805_2012_155_L_RF","18.7500","15.0000","180","Cap Cer SMD 10u 16V 10% 0805 X7R"
+"C9","Cap 10u 0805","TopLayer","C-0805_2012_155_L_RF","18.7500","11.0000","180","Cap Cer SMD 10u 16V 10% 0805 X7R"
+"C8","Cap 10u 0805","TopLayer","C-0805_2012_155_L_RF","21.7500","11.0000","0","Cap Cer SMD 10u 16V 10% 0805 X7R"
+"C6","Cap 100n 0603","TopLayer","C-0603_1608_095_L_RF","10.0000","11.7500","0","Cap Cer SMD 100n 50V 10% 0603 X7R"
+"C2","Cap 100n 0603","BottomLayer","C-0603_1608_095_L_RF","12.5000","34.7500","0","Cap Cer SMD 100n 50V 10% 0603 X7R"
+"B1","CC6920SO-40A","TopLayer","SOIC8_N_RF","12.5000","36.0000","270","IC Current sensor ±40A 5V"
